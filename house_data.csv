@@ -1,0 +1,6 @@
+House_ID,Bedrooms,Size (sq ft),Price (INR),Location,Year_Built
+1,4.0,855.0,31356226.0,Juhu,2002.0
+2,5.0,1847.0,27775439.0,Andheri,2004.0
+3,,2363.0,37325149.0,Bandra,2000.0
+4,5.0,626.0,6147116.0,South Mumbai,2002.0
+5,5.0,,49899606.0,Worli,
